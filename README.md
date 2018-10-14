@@ -18,7 +18,9 @@ more information: https://github.com/reactiflux/discord-irc/wiki/Creating-a-disc
 # Requirements
 
 Python 3.6
+
 discord.py 0.16.12
+
 requests 2.19.1
 
 # How does it work?
