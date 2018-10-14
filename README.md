@@ -4,10 +4,15 @@ A discord bot written in Python with discord.py, using the TaskHero API
 # Set up
 
 Go to https://discordapp.com/developers/applications/
+
 Login and click on create an application
+
 Make everythings as you want it
+
 Go to Settings -> Bot
+
 Copy Token and paste it to the TOKEN= #insert Token here in the Code with "" around it
+
 Run the Bot
 
 # Requirements
