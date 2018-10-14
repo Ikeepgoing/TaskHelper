@@ -13,7 +13,7 @@ Go to Settings -> Bot
 
 Copy Token and paste it to the TOKEN= #insert Token here in the Code with "" around it
 
-Run the Bot
+more information: https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
 
 # Requirements
 
