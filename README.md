@@ -33,4 +33,5 @@ I'm in no way a professional when it comes to coding!!!
 
 # Things that don't work yet
 Custom Date for new task i think
+
 Getting rewards
